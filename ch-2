@@ -1,0 +1,5 @@
+WAMP is for Windows, MAMP is for Mac and LAMO is for Linux.
+They both direct the browser to the local server's root folder.
+A FTP program allows to read/write files in a server remotely.
+The speed at which the processing occurs is not suitable for development.
+A program editor supports better syntax highlighting and indentations unlike a common plain-text editor.
